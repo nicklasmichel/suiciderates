@@ -1,0 +1,2 @@
+bei geschlechtern nicht unbedingt kuchendiagramm. es reichen vlt auch nur die beiden durchschnittszahlen.
+als plot dann vlt die geschlechter prozental nach ländern (top und botton 5?)
