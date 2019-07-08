@@ -1,4 +1,4 @@
-# suiciderates
+# Facts & Figures on Suicide Rates
 
 This repository covers a small data science project posted on medium (https://medium.com/@nicklas.a.michel/facts-figures-on-suicide-rates-76428da844f0).
 
